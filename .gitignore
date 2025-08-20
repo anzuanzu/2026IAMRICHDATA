@@ -1,9 +1,0 @@
-# 不需要追蹤的檔案
-.DS_Store
-Thumbs.db
-*.log
-node_modules/
-.vscode/
-.idea/
-*.tmp
-*.temp
